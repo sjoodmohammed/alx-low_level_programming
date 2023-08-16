@@ -3,8 +3,7 @@
 /**
  * _isalpha - print alphabet character
  * @c: character to paste
- * Return: 1 if c is a letter, lowercase or uppercase 
- * Return: 0  otherwe
+ * Return: 1 if c is a letter or 0 otherwise
  */
 
 int _isalpha(int c)
