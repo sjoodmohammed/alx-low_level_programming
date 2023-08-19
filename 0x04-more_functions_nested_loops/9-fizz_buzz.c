@@ -3,9 +3,7 @@
 
 /**
  * main - Entry point.
- * descriptions: prints the numbers 1 - 100 
- * fizzfor multiple of 3, buzz for 5 and
- * fizz buzz for multiple of both
+ * descriptions: prints the numbers 1 - 100.
  *
  * Return: Always 0.
  */
