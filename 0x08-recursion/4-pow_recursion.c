@@ -1,8 +1,7 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
-*  _pow_recursion - count the power of a number.
+* _pow_recursion - count the power of a number.
 * @x: the base number .
 * @y:the power number.
 * Return: the result of power.
@@ -19,4 +18,4 @@ else if (y == 0)
 return (1);
 }
 return (x * _pow_recursion(x, y - 1));
-i}
+}
