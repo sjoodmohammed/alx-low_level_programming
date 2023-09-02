@@ -2,8 +2,8 @@
 
 /**
 * main - main point.
-* argc: arg count.
-* argv: arg vector.
+* @argc: arg count.
+* @argv: arg vector.
 * Return: 0.
 */
 
